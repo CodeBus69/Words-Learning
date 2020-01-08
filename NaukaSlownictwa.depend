@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1575744663 source:c:\programming\c++\naukaangielskiego\main.cpp
+	"class.hpp"
+	<iostream>
+	<windows.h>
+
+1575755561 c:\programming\c++\naukaangielskiego\class.hpp
+	<iostream>
+
+1575659069 source:c:\programming\c++\naukaangielskiego\files.cpp
+
+1575755151 source:c:\programming\c++\naukaangielskiego\interface.cpp
+	"class.hpp"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1575749944 source:c:\programming\c++\naukaangielskiego\quiz.cpp
+	"class.hpp"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+
+1575730246 source:c:\programming\c++\naukaangielskiego\topicandchaptersnamesconverting.cpp
+

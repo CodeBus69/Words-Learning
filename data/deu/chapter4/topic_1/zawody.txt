@@ -1,0 +1,24 @@
+der Arzt
+lekarz
+der Backer
+piekarz
+der Friseur
+fryzjer
+der Gartner
+ogrodnik
+der Geschaftsfuhrer
+kierownik
+der Kellner
+kelner
+der Kunstler
+artysta
+der Lehrer
+nauczyciel
+der Mechaniker
+mechanik
+der Polizist
+policjant
+der Sanger
+piosenkarz
+der Verkaufer
+sprzedawca, ekspedient

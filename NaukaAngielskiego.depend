@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1576436512 source:c:\programming\c++\naukaslownictwa\interface.cpp
+	"class.hpp"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1576452571 c:\programming\c++\naukaslownictwa\class.hpp
+	<iostream>
+
+1576003513 source:c:\programming\c++\naukaslownictwa\main.cpp
+	"class.hpp"
+	<iostream>
+	<windows.h>
+
+1575932956 source:c:\programming\c++\naukaslownictwa\quiz.cpp
+	"class.hpp"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1575807433 source:c:\programming\c++\naukaslownictwa\topicandchaptersnamesconverting.cpp
+
+1576452563 source:c:\programming\c++\naukaslownictwa\evaluation.cpp
+	"class.hpp"
+
+1575926008 source:c:\programming\c++\naukaslownictwa\codinghelp.cpp
+

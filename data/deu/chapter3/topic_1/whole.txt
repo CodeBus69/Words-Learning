@@ -1,0 +1,106 @@
+der Arzt
+lekarz
+der Backer
+piekarz
+der Friseur
+fryzjer
+der Gartner
+ogrodnik
+der Geschaftsfuhrer
+kierownik
+der Kellner
+kelner
+der Kunstler
+artysta
+der Lehrer
+nauczyciel
+der Mechaniker
+mechanik
+der Polizist
+policjant
+der Sanger
+piosenkarz
+der Verkaufer
+sprzedawca, ekspedient
+Autos reparieren
+naprawiac samochody
+Bilder malen
+malowac obrazy
+Brot backen
+piec chleb
+den Haushalt fuhren
+prowadzic gospodarstwo domowe
+den StraBenverkehr regeln
+kierowac ruchem ulicznym
+Garten pflegen
+pielegnowac ogrody
+Haare schneiden
+obcinac wlosy
+Kranke behandeln
+leczyc chorych
+Lieder singen
+spiewac piosenki
+Schuler unterrichten
+nauczac uczniow
+Waren verkaufen
+sprzedawac towary
+der Arbeitsort
+miejsce pracy
+der Arbeitsplatz
+miejsce pracy (inaczej)
+die Arbeitszeit
+godziny pracy
+die Anforderung
+wymaganie
+die Berufserfahrung
+doswiadczenie zawodowe
+die Berufsgruppe
+grupa zawodowa
+die Bewerbung
+podanie (o prace)
+die Bezahlung
+pensja
+der Nebenjob
+praca dorywcza
+die Prame
+premia
+die Stellenanzeige
+ogloszenie o pracy
+die Teilzeit
+niepelny etat
+die Vollzeit
+pelny etat
+fest
+staly
+flexibel
+elastyczny
+geeignet
+odpowiedni
+kommunikativ
+komunikatywny
+qualifiziert
+wykwalifikowany
+selbststanding
+samodzielny
+sorgfaltig
+staranny
+teamfahig
+zdolny do pracy w zespole
+volljahrig
+pelnoletni
+zufrieden mit etw.
+zadowolony z czegos
+zuverlassig
+niezawodny
+arbeiten als
+pracowac jako
+sich bei einer Firma um eine stelle bewerben
+ubiegac sie w firmie o prace
+sich interessieren fur etw. interesowac sie czyms
+eine wichtige Rolle spielen
+odgrywac wazna role
+verdienen
+zarabiac
+nach Vereinbarung
+do uzgodnienia
+
